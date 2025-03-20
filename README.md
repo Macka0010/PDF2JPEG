@@ -2,6 +2,7 @@
 
 ## Overview
 The PDF2IMAGE CLI Tool allows users to extract images from PDF files. This tool can process either individual PDFs or all PDFs in a specified directory. The extracted images are saved in JPEG format within a subfolder named `Extracted Images`.
+You can run this program in either a GUI or CLI.
 
 ## Command-Line Options
 
