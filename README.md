@@ -49,7 +49,3 @@ For each processed PDF file:
   For example, if processing `report.pdf`, images might be named:
   - report_page_1_image_1.jpg
   - report_page_1_image_2.jpg, etc.
-- **Console Output:** The tool prints details to the console, including:
-  - The PDF file being processed.
-  - The path to the `Extracted Images` folder.
-  - A list of extracted image file paths or a message indicating if no images were extracted.
